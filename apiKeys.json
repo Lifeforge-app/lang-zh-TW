@@ -22,7 +22,8 @@
     "keyDescription": "金鑰描述",
     "keyIcon": "金鑰圖標",
     "apiKey": "API 金鑰",
-    "keyId": "金鑰 ID"
+    "keyId": "金鑰 ID",
+    "isExposable": "是否可暴露"
   },
   "items": {
     "apiKey": " API 金鑰"
