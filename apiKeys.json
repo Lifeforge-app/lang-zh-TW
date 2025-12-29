@@ -12,6 +12,10 @@
     "apiKey": {
       "create": "創建 API 金鑰",
       "update": "更新 API 金鑰"
+    },
+    "modulesRequired": {
+      "title": "所需模組",
+      "totalModulesRequire": "共有 {{count}} 個模組需要此 API 金鑰。"
     }
   },
   "buttons": {
@@ -34,5 +38,11 @@
       "title": "無 API 金鑰",
       "description": "未找到 API 金鑰。單擊下面的按鈕創建新的 API 金鑰"
     }
+  },
+  "misc": {
+    "requiredBy": "被 {{count}} 個模組需要",
+    "lastUpdated": "最後更新：{{time}}",
+    "exposable": "可暴露",
+    "internalOnly": "僅限內部"
   }
 }
