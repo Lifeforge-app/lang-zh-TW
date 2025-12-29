@@ -23,7 +23,8 @@
     "keyIcon": "金鑰圖標",
     "apiKey": "API 金鑰",
     "keyId": "金鑰 ID",
-    "isExposable": "是否可暴露"
+    "isExposable": "是否可暴露",
+    "overrideKey": "覆蓋金鑰"
   },
   "items": {
     "apiKey": " API 金鑰"
