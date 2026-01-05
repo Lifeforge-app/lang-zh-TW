@@ -1,0 +1,14 @@
+{
+  "name": "@lifeforge/lang-zh-TW",
+  "version": "0.0.2",
+  "author": "melvinchia3636 <melvinchia623600@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeforge-app/lang-zh-TW"
+  },
+  "description": "繁體中文 language support for LifeForge.",
+  "lifeforge": {
+    "displayName": "繁體中文",
+    "icon": "circle-flags:tw"
+  }
+}
