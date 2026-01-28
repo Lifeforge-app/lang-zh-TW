@@ -69,5 +69,8 @@
     },
     "misc": {
         "translations": "翻譯"
+    },
+    "notBuilt": {
+        "label": "未建置"
     }
 }
