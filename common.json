@@ -127,6 +127,13 @@
     "viewImage": "查看圖片"
   },
   "misc": {
+    "alert": {
+      "note": "注意",
+      "warning": "警告",
+      "caution": "小心",
+      "tip": "提示",
+      "important": "重要"
+    },
     "search": "搜索{{item}}...",
     "notFound": {
       "title": "糟糕！這裡什麼都沒有",
@@ -246,22 +253,7 @@
     "fileInputSupportedFormat": "支持的格式：{{format}}"
   },
   "sidebar": {
-    "categories": {
-      "productivity": "生產力",
-      "storage": "儲存",
-      "study": "學習",
-      "finance": "財務",
-      "confidential": "機密",
-      "settings": "設置",
-      "technologies": "技術",
-      "utilities": "實用工具",
-      "information": "信息",
-      "sso": "單一登入",
-      "references": "參考資料",
-      "lifestyle": "生活方式",
-      "externalManagement": "外部管理",
-      "healthFitness": "健康與健身"
-    },
+    "categories": {},
     "buttons": {
       "signOut": "登出",
       "accountSettings": "帳戶設置"
@@ -385,7 +377,8 @@
       "invalidFields": "無效欄位。請填寫有效的電子郵件地址和密碼。",
       "quotaExceeded": "最大嘗試次數已達到。請稍後再試。",
       "unknownError": "未知錯誤。請稍後再試。",
-      "invalidLoginAttempt": "無效的登入嘗試。請再試一次。"
+      "invalidLoginAttempt": "無效的登入嘗試。請再試一次。",
+      "userCreated": "帳戶創建成功！歡迎來到 LifeForge。"
     },
     "qrLogin": {
       "title": "掃碼登入",
@@ -413,7 +406,8 @@
       "unlocked": "保險庫已解鎖",
       "failedToUnlock": "解鎖保險庫失敗",
       "buttons": {
-        "unlock": "解鎖"
+        "unlock": "解鎖",
+        "recoverAccount": "恢復帳戶"
       },
       "createPassword": {
         "title": "設置主密碼",

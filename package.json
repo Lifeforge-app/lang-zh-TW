@@ -2,10 +2,6 @@
   "name": "@lifeforge/melvinchia3636--lang-zh-TW",
   "version": "0.0.6",
   "author": "melvinchia3636 <melvinchia623600@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lifeforge-app/lang-zh-TW"
-  },
   "description": "繁體中文 language support for LifeForge.",
   "lifeforge": {
     "code": "zh-TW",

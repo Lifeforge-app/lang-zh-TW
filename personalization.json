@@ -74,7 +74,7 @@
       "displayName": "顯示名稱",
       "fontFamily": "字體家族",
       "fontWeight": "字體粗細",
-      "selectFile": "字體文件"
+      "fontFile": "字體文件"
     },
     "modals": {
       "fontFamilySelector": "字體家族選擇器",
