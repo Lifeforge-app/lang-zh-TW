@@ -15,7 +15,9 @@
     },
     "modulesRequired": {
       "title": "所需模組",
-      "totalModulesRequire": "共有 {{count}} 個模組需要此 API 金鑰。"
+      "totalModulesRequire": "共有 {{count}} 個模組需要此 API 金鑰。",
+      "required": "必需",
+      "optional": "可選"
     }
   },
   "buttons": {

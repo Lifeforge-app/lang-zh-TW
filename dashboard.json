@@ -11,6 +11,10 @@
     "manageWidgets": "管理小工具",
     "lockLayout": "鎖定佈局"
   },
+  "messages": {
+    "editingLayout": "您正在編輯儀表板佈局",
+    "editingLayoutHint": "透過拖動小工具來調整排列，或透過拖動每個小工具右下角的小三角形來調整小工具大小"
+  },
   "empty": {
     "welcome": {
       "title": "歡迎來到 LifeForge！",
