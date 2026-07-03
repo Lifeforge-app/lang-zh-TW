@@ -3,16 +3,6 @@
   "description": "基於UI的LifeForge實例模組管理器",
   "category": "分類",
   "subsections": {
-    "modules": "模組",
-    "categories": "類別"
-  },
-  "buttons": {
-    "uninstall": "解除安裝",
-    "addTranslation": "新增翻譯",
-    "addCategory": "添加分類",
-    "add category": "添加分類"
-  },
-  "subsectionTitleAndDesc": {
     "modules": {
       "title": "模組",
       "description": "安裝、更新和移除您LifeForge實例中的模組"
@@ -21,6 +11,12 @@
       "title": "類別",
       "description": "整理和重新排序側邊欄類別以自訂您的導覽"
     }
+  },
+  "buttons": {
+    "uninstall": "解除安裝",
+    "addTranslation": "新增翻譯",
+    "addCategory": "添加分類",
+    "add category": "添加分類"
   },
   "items": {
     "category": "類別"
