@@ -53,6 +53,11 @@
       "error": "刪除項目時出錯。請再試一次。"
     },
     "searchFilters": "搜索過濾器",
+    "datePicker": {
+      "title": "選擇日期",
+      "titleWithTime": "選擇日期時間",
+      "yearMonth": "選擇年月"
+    },
     "iconPicker": {
       "title": "選擇圖標",
       "items": {
